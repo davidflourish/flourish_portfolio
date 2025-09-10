@@ -1,8 +1,4 @@
 
-  # Nigerian Private School Website (Copy)
-
-  This is a code bundle for Nigerian Private School Website (Copy). The original project is available at https://www.figma.com/design/R1MeMXWCC4CYo2T9zUXYV1/Nigerian-Private-School-Website--Copy-.
-
   ## Running the code
 
   Run `npm i` to install the dependencies.
